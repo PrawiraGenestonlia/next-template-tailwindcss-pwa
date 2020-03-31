@@ -11,7 +11,7 @@
     "@zeit/next-css": "^1.0.1",
     "autoprefixer": "^9.7.3",
     "cssnano": "^4.1.10",
-    "next": "9.1.7",
+    "next": "9.3.2",
     "next-offline": "^4.0.6",
     "postcss-easy-import": "^3.0.0",
     "react": "16.12.0",
